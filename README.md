@@ -232,7 +232,7 @@ toc: true
    ,, \= ,,,  
 7. ক্ষ লেখা: ক্ষ যদিও যুক্তবর্ণ তবুও এখানেও আলোচনা করা হচ্ছে। ক্ষ তিনভাবে লেখা যাবে: ক্ষ \= kf, kkh, ksf. যেকোনো সুবিধাজনক উপায়ে লিখতে পারবেন।
 
-## চন্দ্রবিন্দু ( ঁ), বিসর্গ (ঃ), অনুস্বার (ং), এবং খণ্ড-ত (ৎ) লেখা
+## চন্দ্রবিন্দু (ঁ), বিসর্গ (ঃ), অনুস্বার (ং), এবং খণ্ড-ত (ৎ) লেখা
 
 1. চন্দ্রবিন্দু লিখতে স্ল্যাশ (/) ব্যবহার করা হবে। যেমন:  
    চাঁদ \= ca/d  
@@ -242,7 +242,7 @@ toc: true
 4. খণ্ড-ত (ৎ) লিখতে t/ ব্যবহার করা হবে। যেমন:   
    উৎস \= ut/s 
 
-## নুকতা ( ়) দেওয়া 
+## নুকতা (়) দেওয়া 
 
 কোনো বর্ণের নিচে নুকতা দিতে দুই কমা ব্যবহার করা হবে। যেমন:  
 হ় \= h,,  
@@ -456,25 +456,25 @@ BTW ami arrc iujar \= btw আমি আর্চ ইউজার
   </tr>
   <tr>
     <td>ii</td>
-    <td>ঈ<br> ী</td>
+    <td>ঈ<br>ী</td>
     <td>iid<br>kii</td>
     <td>ঈদ<br>কী</td>
   </tr>
   <tr>
     <td>u</td>
-    <td>উ<br> ু</td>
+    <td>উ<br>ু</td>
     <td>ui<br>oju</td>
     <td>উই<br>অজু</td>
   </tr>
   <tr>
     <td>uu</td>
-    <td>ঊ<br> ূ</td>
+    <td>ঊ<br>ূ</td>
     <td>uuru<br>kuup</td>
     <td>ঊরু<br>কূপ</td>
   </tr>
   <tr>
     <td>q</td>
-    <td>ঋ<br> ৃ</td>
+    <td>ঋ<br>ৃ</td>
     <td>qju<br>kqtii</td>
     <td>ঋজু<br>কৃতী</td>
   </tr>
@@ -492,13 +492,13 @@ BTW ami arrc iujar \= btw আমি আর্চ ইউজার
   </tr>
   <tr>
     <td>w</td>
-    <td>ও<br>ে া</td>
+    <td>ও<br>ো</td>
     <td>wstad<br>kwn</td>
     <td>ওস্তাদ<br>কোন</td>
   </tr>
   <tr>
     <td>ou</td>
-    <td>ঔ<br>ে ৗ</td>
+    <td>ঔ<br>ৌ</td>
     <td>oucitz<br>nou</td>
     <td>ঔচিত্য<br>নৌ</td>
   </tr>
@@ -516,13 +516,13 @@ BTW ami arrc iujar \= btw আমি আর্চ ইউজার
   </tr>
   <tr>
     <td>wa</td>
-    <td>ওয়া<br>ে ায়া</td>
+    <td>ওয়া<br>োয়া</td>
     <td>watfar<br>dhwa</td>
     <td>ওয়াটার<br>ধোয়া</td>
   </tr>
   <tr>
     <td>we</td>
-    <td>ওয়ে<br>ে ায়ে</td>
+    <td>ওয়ে<br>োয়ে</td>
     <td>wedar<br>swetfar</td>
     <td>ওয়েদার<br>সোয়েটার</td>
   </tr>
@@ -980,7 +980,7 @@ BTW ami arrc iujar \= btw আমি আর্চ ইউজার
   </tr>
   <tr>
     <td>/</td>
-    <td> ঁ</td>
+    <td>ঁ</td>
     <td>চন্দ্রবিন্দু, ta/der = তাঁদের</td>
   </tr>
   <tr>
