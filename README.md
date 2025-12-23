@@ -10,7 +10,7 @@ toc: true
 প্রথম প্রকাশ: ২৪শে আগস্ট, ২০২৫  
 ৬ষ্ঠ সংস্করণ: ২৮শে অক্টোবর, ২০২৫
 
-[PDF Documentation](https://docs.google.com/document/d/1dlfCptSiUfYKEpCLfxglZmdKMbiVoVTRI0FFjpxHE9Y/edit?usp=drivesdk) | [For Developers](#ডেভেলপারদের-জন্য-for-developers)
+[Click here to view the Guidelines for Developers](#ডেভেলপারদের-জন্য-for-developers)
 
 
 # লক্ষ্য, উদ্দেশ্য, ও পরিকল্পনা
