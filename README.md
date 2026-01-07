@@ -472,7 +472,7 @@ BTW ami arrc iujar \= btw আমি আর্চ ইউজার
     <td>;</td>     <td>পৃথায়ক ও যুক্তবর্ণ রোধক</td>     <td>am;ar<br>chok;ka</td>     <td>আমআর<br>ছককা</td>
   </tr>
   <tr>
-    <td>{কার}f</td>     <td>শব্দের শুরুতে কারচিহ্নের বদলে<br>স্বরবর্ণ আসা রোধ করবে।</td>     <td>afr</td>     <td>ার</td>
+    <td>{স্বর}f</td>     <td>শব্দের শুরুতে কারচিহ্নের বদলে<br>স্বরবর্ণ আসা রোধ করবে।</td>     <td>afr</td>     <td>ার</td>
   </tr>
   <tr>
     <td>{ব্যঞ্জন}wif</td>     <td>{ব্যঞ্জন}-োই</td>     <td>bwif</td>     <td>বোই</td>
@@ -551,7 +551,7 @@ BTW ami arrc iujar \= btw আমি আর্চ ইউজার
     <td>d</td>     <td>দ</td>     <td>d;i, dif</td>     <td>দই</td>
   </tr>
   <tr>
-    <td>dh</td>     <td>ধ</td>     <td>dhakka<br>dhbni</td>     <td>ধাক্কা<br>ধ্বনি</td>
+    <td>dh</td>     <td>ধ</td>     <td>dhakka</td>     <td>ধাক্কা</td>
   </tr>
   <tr>
     <td>n</td>     <td>ন</td>     <td>nombor, n;mb;r</td>     <td>নম্বর</td>
@@ -572,10 +572,10 @@ BTW ami arrc iujar \= btw আমি আর্চ ইউজার
     <td>m</td>     <td>ম</td>     <td>matfi</td>     <td>মাটি</td>
   </tr>
   <tr>
-    <td>z</td>     <td>য</td>     <td>zokhon, zkhn</td>     <td>যখন</td>
+    <td>z</td>     <td>য</td>     <td>zokhon</td>     <td>যখন</td>
   </tr>
   <tr>
-    <td>r</td>     <td>র</td>     <td>rong</td>     <td>রং</td>
+    <td>r</td>     <td>র</td>     <td>rox</td>     <td>রং</td>
   </tr>
   <tr>
     <td>l</td>     <td>ল</td>     <td>lav</td>     <td>লাভ</td>
@@ -1055,8 +1055,8 @@ BTW ami arrc iujar \= btw আমি আর্চ ইউজার
 
 ## ক্ষিপ্র পাইথন
 
-1. [Khipro Python Version](https://github.com/KhiproKeyboard/khipro-python) (ক্ষিপ্র পাইথন সংস্করণ) থেকে লজিক ব্লুপ্রিন্ট ব্যবহার করে ডেভেলপারগণ তাঁদের কিবোর্ডে ক্ষিপ্র ইমপ্লিমেন্ট করতে পারেন।
-2. ক্ষিপ্র-র মূল রিপোজিটরি [khipro-m17n](https://github.com/rank-coder/khipro-m17n) সহ অন্যান্য কয়েকটি ল্যাংগুয়েজে ক্ষিপ্র-র যেসব মডিউল তৈরি করা হয়েছে সেগুলোর একটা তালিকা ওয়েবসাইটের হোম পেজে [ক্ষিপ্র রিপোজিটরি সমূহ](https://khiprokeyboard.github.io/#repositories) সেকশনে দেওয়া হয়েছে।
+1. [Khipro Python Version](https://github.com/KhiproTeam/khipro-python) (ক্ষিপ্র পাইথন সংস্করণ) থেকে লজিক ব্লুপ্রিন্ট ব্যবহার করে ডেভেলপারগণ তাঁদের কিবোর্ডে ক্ষিপ্র ইমপ্লিমেন্ট করতে পারেন।
+2. ক্ষিপ্র-র মূল রিপোজিটরি [khipro-m17n](https://github.com/rank-coder/khipro-m17n) সহ অন্যান্য কয়েকটি ল্যাংগুয়েজে ক্ষিপ্র-র যেসব মডিউল তৈরি করা হয়েছে সেগুলোর একটা তালিকা ওয়েবসাইটের হোম পেজে [ক্ষিপ্র রিপোজিটরি সমূহ](https://khiproteam.github.io/khipro/#repositories) সেকশনে দেওয়া হয়েছে।
 
 ## টাচস্ক্রিনে অ্যাডাপটেশনের জন্য সাজেশন
 
